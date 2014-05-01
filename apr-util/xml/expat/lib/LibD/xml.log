@@ -1,0 +1,20 @@
+﻿     0>C:\proj\ProgisKIM\Development\log4cxx\apr\apr.vcxproj(93,5): warning MSB4011: "C:\Users\Progis\AppData\Local\Microsoft\MSBuild\v4.0\Microsoft.Cpp.Win32.user.props" cannot be imported again. It was already imported at "C:\proj\ProgisKIM\Development\log4cxx\apr\apr.vcxproj (90,5)". This is most likely a build authoring error. This subsequent import will be ignored. 
+     0>C:\proj\ProgisKIM\Development\log4cxx\apr-util\xml\expat\lib\xml.vcxproj(86,5): warning MSB4011: "C:\Users\Progis\AppData\Local\Microsoft\MSBuild\v4.0\Microsoft.Cpp.Win32.user.props" cannot be imported again. It was already imported at "C:\proj\ProgisKIM\Development\log4cxx\apr-util\xml\expat\lib\xml.vcxproj (79,5)". This is most likely a build authoring error. This subsequent import will be ignored. 
+Build started 4-4-2014 12:22:33.
+     1>Project "C:\proj\ProgisKIM\Development\log4cxx\apr-util\xml\expat\lib\xml.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I. /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D COMPILED_FROM_DSP /D XML_STATIC /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm- /EHsc /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\LibD\\" /Fd".\LibD\xml" /Gd /TC /analyze- /errorReport:prompt  /EHsc   /EHsc xmlparse.c xmlrole.c xmltok.c
+         xmlparse.c
+         xmlrole.c
+         xmltok.c
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"LibD\xml.lib" /NOLOGO .\LibD\xmlparse.obj
+         .\LibD\xmlrole.obj
+         .\LibD\xmltok.obj
+         xml.vcxproj -> C:\proj\ProgisKIM\Development\log4cxx\apr-util\xml\expat\lib\.\LibD\xml.lib
+     1>Done Building Project "C:\proj\ProgisKIM\Development\log4cxx\apr-util\xml\expat\lib\xml.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.58

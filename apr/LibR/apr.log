@@ -1,0 +1,6 @@
+﻿     0>C:\Users\Progis\Documents\GitHub\log4cxx-win32\log4cxx\apr\apr.vcxproj(97,5): warning MSB4011: "C:\Users\Progis\AppData\Local\Microsoft\MSBuild\v4.0\Microsoft.Cpp.Win32.user.props" cannot be imported again. It was already imported at "C:\Users\Progis\Documents\GitHub\log4cxx-win32\log4cxx\apr\apr.vcxproj (83,5)". This is most likely a build authoring error. This subsequent import will be ignored. 
+Build started 1-5-2014 16:30:45.
+
+Build succeeded.
+
+Time Elapsed 00:00:00.00
